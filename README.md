@@ -23,4 +23,4 @@ O Word2Vec apresentou uma acurácia superior a rede neural, 75%. No entanto, tam
 
 Aqui temos as frases da base de dados em uma projeção de acordo com seus valores do Word2Vec. Com ele é possível analisar frases que são próximas, e assim, apresentam uma maior similaridade.
 
-No google colab(https://colab.research.google.com/drive/1WXqfdLlvxXZXp41e-9Va5xNdUpX2wthR?usp=sharing) é possível visualizar o tensorboard e o embedding projector (no notebook .ipynb não ficou salvo).
+No google colab(https://colab.research.google.com/drive/1WXqfdLlvxXZXp41e-9Va5xNdUpX2wthR?usp=sharing) é possível visualizar o tensorboard e o embedding projector (necessário desativar a opção de visualização 3D - quadrado com A no menu superior) - no notebook .ipynb não ficou salvo.
